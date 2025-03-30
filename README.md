@@ -1,5 +1,5 @@
 # JavaScript
-<div style="border-top: 1px solid #323232; margin: 10px 0;"></div>
+---
 
 
 
@@ -32,7 +32,6 @@
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 
 
-<div class="line-break"></div>
 
 
 
@@ -78,22 +77,3 @@
 
 
 
-<style>
-    body {
-        font-family: "SF Pro", "Helvetica Neue", sans-serif;
-        font-size: 16px;
-        color: #323232;
-        background-color:#EDEADE;
-    }
-     a {
-        color: #191919; 
-        text-decoration: none; 
-    }
-    a:hover {
-        color: #666666; 
-    }
-    .line-break {
-        border-top: 1px solid #323232; 
-        margin: 20px 0;
-    }
-</style>

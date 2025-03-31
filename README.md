@@ -1,5 +1,4 @@
 # JavaScript
----
 
 
 
@@ -30,9 +29,6 @@
 * [Mongoose](https://mongoosejs.com/)
 * [Express](https://expressjs.com/)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
-
-
-
 
 
 
